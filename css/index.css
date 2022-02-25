@@ -16,5 +16,8 @@ css{
 h3{
     font-weight: bold;
 }
+.footer img{
+    width: 40px;
+}
 
 /* gh-pages */
